@@ -1,6 +1,7 @@
 FITUR YANG AKAN DIBUAT
 -Pakai Laravel
-* laravel 10
-* Dan FrameWork 
--Pakai PHP
+  * laravel 10
+-Framework Javascript
+  ^Vue
+  ^React
 -Struktur data base 
