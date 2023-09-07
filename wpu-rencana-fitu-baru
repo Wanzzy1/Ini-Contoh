@@ -1,6 +1,7 @@
 FITUR YANG AKAN DIBUAT
--Pakai Laravel
-  ^Angular
+  * laravel 10
+-Framework Javascript
+  ^Vue
   ^React
--DataBase
-   ^MySQL
+-Database
+ ^MySQL
