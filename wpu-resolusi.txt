@@ -1,0 +1,3 @@
+wpu resolusi
+- ingin konsisten belajar ngoding selama 4 bulan 
+- Membuat Sistem Antrian dengan laravel 
