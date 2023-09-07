@@ -4,4 +4,5 @@ FITUR YANG AKAN DIBUAT
 -Framework Javascript
   ^Vue
   ^React
--Struktur data base 
+-Database
+ ^MySQL
